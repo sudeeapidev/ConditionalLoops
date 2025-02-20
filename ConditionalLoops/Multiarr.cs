@@ -39,6 +39,7 @@ namespace ConditionalLoops
                 }
 
                 Console.WriteLine("Sum of " + (i +1)+ " row is " + sum);
+                Console.WriteLine("done");
             }
         }
     }
