@@ -46,6 +46,7 @@ namespace ConditionalLoops
             }
 
             Console.WriteLine("The maximum element is " + a1.getMax(arr));
+            Console.WriteLine("***************");
             Console.WriteLine("The minimum element is " + a1.getMin(arr));
         }
     }
